@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**silvavit0ria/silvavit0ria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou a Vitória Fontes 😎
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/vitoria01silva/)"<br/>
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/silva.vit0ria/?next=%2F)]
 
-Here are some ideas to get you started:
+### Tecnologias que eu uso no meu dia. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)"/>
+<img align="center" alt="css" scr="![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=fo"/>
+<img align="center" alt"js" scr=("https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")/>
+</div>
+
+
+
