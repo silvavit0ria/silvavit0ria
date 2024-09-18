@@ -3,7 +3,7 @@
   
   Cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida, e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedor Java. <br>
   Em 2022 realizei o Curso de <strong> Desenvolvedor Full-Stack </strong> disponibilizado pela prefeitura do Rio de Janeiro com parceria a Resilia Educação e Senac. <br>
-  Estou cursando o Curso <strong>Java 2022 Completo do zero ao profissional </strong> na academia de cursos UDEMY.
+   Atualmente estou cursando  <strong>Desenvolvimento Front-End </strong> na escola Vai na Web.
 <br> <br>
 
 ### Conheça minhas redes 😊🤞
