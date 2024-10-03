@@ -1,17 +1,12 @@
-## Olá, mundo! Meu nome é <strong>Vitória</strong>! 👋
-  Sou Carioca, tenho 21 anos e estou tentando me tornar uma <strong>Desenvolvedora </strong>.
-  
-  Cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida, e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedor Java. <br>
-  Em 2022 realizei o Curso de <strong> Desenvolvedor Full-Stack </strong> disponibilizado pela prefeitura do Rio de Janeiro com parceria a Resilia Educação e Senac. <br>
-   Atualmente estou cursando  <strong>Desenvolvimento Front-End </strong> na escola Vai na Web.
-<br> <br>
+Olá, mundo! Meu nome é <strong>Vitória</strong>! 👋
+Sou Carioca, tenho 22 anos e estou em constante evolução para me tornar uma <strong>Desenvolvedora</strong>.
 
-### Conheça minhas redes 😊🤞
-<div> 
-  <a href="https://www.instagram.com/silva.vit0ria/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitoria01silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida e me dedicando ao aprimoramento das minhas habilidades em JavaScript. Em 2023, concluí o curso de <strong>Desenvolvedor Full-Stack</strong>, oferecido pela prefeitura do Rio de Janeiro em parceria com Resilia Educação e Senac. Agora, estou cursando <strong>Desenvolvimento Front-End</strong> na Vai na Web.
+
+<br><br>
+
+Conheça minhas redes 😊🤞
+<div> <a href="https://www.instagram.com/silva.vit0ria/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/vitoria01silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 
 
 ### Tecnologias que eu uso no meu dia. 
